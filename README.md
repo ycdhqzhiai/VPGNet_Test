@@ -30,5 +30,5 @@ tail -f nohup.out
 ./test <net.prototxt> <net.caffemodel> <inputFile_txt>
 ```
 ## Reference resources
-1.https://github.com/ArayCHN/VPGNet_for_lane
+1.https://github.com/ArayCHN/VPGNet_for_lane</br>
 2.https://www.zybuluo.com/vivounicorn/note/872699
