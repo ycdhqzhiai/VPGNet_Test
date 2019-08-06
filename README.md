@@ -14,7 +14,7 @@ make pycaffe
 cd models/vpgnet-novp/
 make_lmdb.sh
 ````
-PS::关于数据集，tusimple没有标注对应lane类别，BDD需要清洗
+PS::关于数据集，tusimple没有标注对应lane类别，BDD需要清洗</br>
 2.训练
 ```shell
 nohup ../../build/tools/caffe train --solver=./solver.prototxt &
