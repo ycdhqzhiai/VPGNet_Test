@@ -23,7 +23,7 @@ tail -f nohup.out
 在test文件夹中提供了py和cpp实现</br>
 1.python脚本修改test.py对应文件路径</br>
 `python test.py`</br>
-2.修改run.sh对应路径编译运行
+2.cpp修改run.sh对应路径编译运行
 ```
 ./run.sh
 ./test <net.prototxt> <net.caffemodel> <inputFile_txt>
